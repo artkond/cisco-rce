@@ -7,6 +7,7 @@ This repository contains Proof-Of-Concept code for exploiting remote code execut
 
 Description
 -------------
+Exploit write-up is available here - <https://artkond.com/2017/04/10/cisco-catalyst-remote-code-execution/>
 
 RCE exploit code is available for Cisco Catalyst 2960 switch model. This exploit is firmware dependent. Two firmware versions are supported:
 
